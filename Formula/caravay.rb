@@ -3,8 +3,8 @@ class Caravay < Formula
 
   desc "Offline speech transcription and translation for Apple Silicon Macs"
   homepage "https://github.com/tjvjk/caravay"
-  url "https://github.com/tjvjk/caravay/releases/download/v0.12.0/caravay-0.12.0-py3-none-any.whl", using: :nounzip
-  sha256 "011c01d33e7b4ef0fcb52d923d1401ddc2377b11f4cdd7f897bee16205a2c04e"
+  url "https://github.com/tjvjk/caravay/releases/download/v0.14.0/caravay-0.14.0-py3-none-any.whl", using: :nounzip
+  sha256 "6938e4f65c25ccbb50f4eada48f515af1c5a12775f8304ae7fa24641e0be75e2"
   license "MIT"
 
   depends_on arch: :arm64
